@@ -2,7 +2,7 @@ console.clear()
 
 var num1 = 15;
 var num2 = 30;
-
+ 
 // =
 // num1 = 20;
 
