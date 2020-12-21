@@ -1,5 +1,5 @@
 console.clear()
-
+ 
 var mVar //mvar holds no value
 console.log(mVar)
  
