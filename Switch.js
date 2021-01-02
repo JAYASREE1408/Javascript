@@ -1,7 +1,5 @@
 console.clear()
-
 var currentDay = 'Thu'
-
 if(currentDay === 'Mon') {
 	console.log('Timings: 10:00-06:00')
 } else if(currentDay === 'Tue') {
