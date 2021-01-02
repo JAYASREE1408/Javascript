@@ -43,3 +43,5 @@ switch(currentDay) {
 	default:
 	console.log('Timings: 09:00-01:00')
 }
+
+
